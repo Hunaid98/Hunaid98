@@ -93,8 +93,8 @@ const hunaid = {
 
 <!-- Replace REPO_NAME with your real repo names; the cards pull live data from GitHub -->
 <p align="center">
-  <a href="https://github.com/hunaidbaig/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hunaidbaig&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/hunaidbaig/shire_reward">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hunaidbaig&repo=shire_reward&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/hunaidbaig/REPO_NAME">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hunaidbaig&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
